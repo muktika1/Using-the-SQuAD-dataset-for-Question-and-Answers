@@ -1,4 +1,3 @@
-# Using-the-SQuAD-dataset-for-Question-and-Answers
 # Question-Answering (Q&A) System using Deep Learning
 
 ## Objective
